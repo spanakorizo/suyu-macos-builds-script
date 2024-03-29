@@ -23,7 +23,12 @@ Here is a list of some games that have been tested and go in-game. It is not a c
 - Sonic Superstars
 - Street Fighter 30th Anniversary
 - Super Mario Bros. Wonder
-- UNDERNIGHT IN-BIRTH II [Sys:Celes]  
+- UNDERNIGHT IN-BIRTH II [Sys:Celes]
+- Prince Of Persia: Lost Crown
+- Bubble Bobble 4 friends
+- Grim Fandago Remastered
+- Pokemon Legends
+  
 ## Known non-working games:
 Here is a list of some games that have been tested and do not go in-game. It is not a complete list, there are probably more that don't work.
 
